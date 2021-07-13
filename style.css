@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color: lightgreen;
+}
+h1{
+    font-family: fantasy;
+    font-size: 40px;
+    color: crimson;
+}
+p{
+    font-family: cursive;
+    font-size: 23px;
+}
+a{
+    font-size: 30px;
+    text-decoration: none;
+    color: darkorange;
+}
+img{
+    width: 900px;
+    margin-bottom: 100px;
+    margin-top: 0px;
+}
+h3{
+    font-family: serif;
+    font-size: 90px;
+    color: dodgerblue;
+    text-decoration: underline;
+}
